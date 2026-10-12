@@ -1,4 +1,3 @@
-```yaml
 name: Netflix CI Pipeline
 
 on:
@@ -47,4 +46,3 @@ jobs:
         with:
           name: netflix-model-artifacts
           path: artifacts/
-```
